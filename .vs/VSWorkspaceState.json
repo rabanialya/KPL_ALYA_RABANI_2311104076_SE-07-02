@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\05_Generics",
+    "\\05_Generics\\tpmodul5_2311104076",
+    "\\05_Generics\\tpmodul5_2311104076\\tpmodul5_2311104076"
   ],
-  "SelectedNode": "\\16_Presentasi_Tugas_Besar",
+  "SelectedNode": "\\05_Generics\\tpmodul5_2311104076\\tpmodul5_2311104076\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
