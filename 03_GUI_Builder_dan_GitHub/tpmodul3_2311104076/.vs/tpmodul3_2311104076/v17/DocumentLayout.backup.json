@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tpmodul3_2311104076\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4E777C1-F7CE-415C-8091-2A8ECC60D1D5}|tpmodul3_2311104076\\tpmodul3_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\03_gui_builder_dan_github\\tpmodul3_2311104076\\tpmodul3_2311104076\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E777C1-F7CE-415C-8091-2A8ECC60D1D5}|tpmodul3_2311104076\\tpmodul3_2311104076.csproj|solutionrelative:tpmodul3_2311104076\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C4E777C1-F7CE-415C-8091-2A8ECC60D1D5}|tpmodul3_2311104076\\tpmodul3_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\03_gui_builder_dan_github\\tpmodul3_2311104076\\tpmodul3_2311104076\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C4E777C1-F7CE-415C-8091-2A8ECC60D1D5}|tpmodul3_2311104076\\tpmodul3_2311104076.csproj|solutionrelative:tpmodul3_2311104076\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E777C1-F7CE-415C-8091-2A8ECC60D1D5}|tpmodul3_2311104076\\tpmodul3_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\03_gui_builder_dan_github\\tpmodul3_2311104076\\tpmodul3_2311104076\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E777C1-F7CE-415C-8091-2A8ECC60D1D5}|tpmodul3_2311104076\\tpmodul3_2311104076.csproj|solutionrelative:tpmodul3_2311104076\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tpmodul3_2311104076\\tpmodul3_2311104076\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodul3_2311104076\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tpmodul3_2311104076\\tpmodul3_2311104076\\Form1.cs",
+              "RelativeToolTip": "tpmodul3_2311104076\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:24:06.9Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -30,7 +52,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tpmodul3_2311104076\\tpmodul3_2311104076\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tpmodul3_2311104076\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tpmodul3_2311104076\\tpmodul3_2311104076\\Form1.Designer.cs",
+              "RelativeToolTip": "tpmodul3_2311104076\\Form1.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:41:34.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tpmodul3_2311104076\\tpmodul3_2311104076\\Form1.cs",
               "RelativeDocumentMoniker": "tpmodul3_2311104076\\Form1.cs",

@@ -16,5 +16,11 @@ namespace tpmodul3_2311104076
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nama = textBox1.Text;
+            textBox2.Text = $"Halo \"{nama}\"";
+        }
     }
 }

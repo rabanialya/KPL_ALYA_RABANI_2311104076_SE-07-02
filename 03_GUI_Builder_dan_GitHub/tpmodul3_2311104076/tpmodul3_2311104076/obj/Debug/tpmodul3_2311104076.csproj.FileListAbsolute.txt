@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\bin\Debug\tpmodul3_2311104076.exe.config
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\bin\Debug\tpmodul3_2311104076.exe
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\bin\Debug\tpmodul3_2311104076.pdb
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\tpmodul3_2311104076.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\tpmodul3_2311104076.Form1.resources
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\tpmodul3_2311104076.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\tpmodul3_2311104076.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\tpmodul3_2311104076.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\tpmodul3_2311104076.exe
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\03_GUI_Builder_dan_GitHub\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\tpmodul3_2311104076.pdb
