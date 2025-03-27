@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmodul3_2311104076\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5B1A9FE-DD23-4A03-A274-2177857686D1}|tjmodul3_2311104076\\tjmodul3_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\03_gui_builder_dan_github\\tjmodul3_2311104076\\tjmodul3_2311104076\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B1A9FE-DD23-4A03-A274-2177857686D1}|tjmodul3_2311104076\\tjmodul3_2311104076.csproj|solutionrelative:tjmodul3_2311104076\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5B1A9FE-DD23-4A03-A274-2177857686D1}|tjmodul3_2311104076\\tjmodul3_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\03_gui_builder_dan_github\\tjmodul3_2311104076\\tjmodul3_2311104076\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5B1A9FE-DD23-4A03-A274-2177857686D1}|tjmodul3_2311104076\\tjmodul3_2311104076.csproj|solutionrelative:tjmodul3_2311104076\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmodul3_2311104076\\tjmodul3_2311104076\\Form1.cs",
+              "RelativeDocumentMoniker": "tjmodul3_2311104076\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmodul3_2311104076\\tjmodul3_2311104076\\Form1.cs",
+              "RelativeToolTip": "tjmodul3_2311104076\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA9wDYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:20:12.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\03_GUI_Builder_dan_GitHub\\tjmodul3_2311104076\\tjmodul3_2311104076\\Form1.cs",
               "RelativeDocumentMoniker": "tjmodul3_2311104076\\Form1.cs",
