@@ -1,4 +1,5 @@
-﻿using System;
+﻿// MENAMBAHKAN KODE DENGAN TEKNIK TABLE-DRIVEN 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -49,5 +50,68 @@ class Program
 
         string hasilKodePos = kodePos.GetKodePos(kelurahan);
         Console.WriteLine($"Kode pos {kelurahan}: {hasilKodePos}");
+    }
+}
+
+
+// MENAMBAHKAN KODE DENGAN TEKNIK STATE-BASED CONSTRUCTION
+
+namespace tpmodul3_2311104076
+{
+    class DoorMachine
+    {
+        private enum State { Terkunci, Terbuka }
+        private State currentState;
+
+        public DoorMachine()
+        {
+            currentState = State.Terkunci;
+            Console.WriteLine("Pintu terkunci");
+        }
+
+        public void BukaPintu()
+        {
+            if (currentState == State.Terkunci)
+            {
+                currentState = State.Terbuka;
+                Console.WriteLine("Pintu tidak terkunci");
+            }
+            else
+            {
+                Console.WriteLine("Pintu sudah terbuka");
+            }
+        }
+
+        public void KunciPintu()
+        {
+            if (currentState == State.Terbuka)
+            {
+                currentState = State.Terkunci;
+                Console.WriteLine("Pintu terkunci");
+            }
+            else
+            {
+                Console.WriteLine("Pintu sudah terkunci");
+            }
+        }
+    }
+}
+
+
+namespace tpmodul3_2311104076
+{
+    class Program2
+    {
+        static void Main()
+        {
+            DoorMachine pintu = new DoorMachine();
+
+            Console.WriteLine("\nMenjalankan simulasi...");
+
+            pintu.BukaPintu();
+            pintu.BukaPintu();
+            pintu.KunciPintu();
+            pintu.KunciPintu();
+        }
     }
 }
