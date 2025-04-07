@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\bin\Debug\net8.0\GUIDED.exe
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\bin\Debug\net8.0\GUIDED.deps.json
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\bin\Debug\net8.0\GUIDED.runtimeconfig.json
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\bin\Debug\net8.0\GUIDED.dll
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\bin\Debug\net8.0\GUIDED.pdb
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\GUIDED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\GUIDED.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\GUIDED.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\GUIDED.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\GUIDED.sourcelink.json
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\GUIDED.dll
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\refint\GUIDED.dll
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\GUIDED.pdb
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\GUIDED.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\06_Design_by_Contract_dan_Defensive_Programming\GUIDED\GUIDED\obj\Debug\net8.0\ref\GUIDED.dll

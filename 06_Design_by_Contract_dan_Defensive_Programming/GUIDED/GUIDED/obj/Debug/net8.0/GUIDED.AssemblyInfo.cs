@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GUIDED")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac253b699a4a42827bd8fb9e2886e49f6f733d7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c42c740dd6651388085aae67a305518592afcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GUIDED")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GUIDED")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
