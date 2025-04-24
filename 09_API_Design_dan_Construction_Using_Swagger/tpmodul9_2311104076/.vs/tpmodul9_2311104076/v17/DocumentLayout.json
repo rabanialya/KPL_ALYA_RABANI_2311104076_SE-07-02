@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104076\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BFE9DA5-8F49-41FA-958D-21E6947E8B45}|tpmodul9_2311104076\\tpmodul9_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\09_api_design_dan_construction_using_swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE9DA5-8F49-41FA-958D-21E6947E8B45}|tpmodul9_2311104076\\tpmodul9_2311104076.csproj|solutionrelative:tpmodul9_2311104076\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFE9DA5-8F49-41FA-958D-21E6947E8B45}|tpmodul9_2311104076\\tpmodul9_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\09_api_design_dan_construction_using_swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\models\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFE9DA5-8F49-41FA-958D-21E6947E8B45}|tpmodul9_2311104076\\tpmodul9_2311104076.csproj|solutionrelative:tpmodul9_2311104076\\models\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BFE9DA5-8F49-41FA-958D-21E6947E8B45}|tpmodul9_2311104076\\tpmodul9_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\09_api_design_dan_construction_using_swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BFE9DA5-8F49-41FA-958D-21E6947E8B45}|tpmodul9_2311104076\\tpmodul9_2311104076.csproj|solutionrelative:tpmodul9_2311104076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,12 +43,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "tpmodul9_2311104076\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "tpmodul9_2311104076\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:27:43.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\Models\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "tpmodul9_2311104076\\Models\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\Models\\Mahasiswa.cs",
+              "RelativeToolTip": "tpmodul9_2311104076\\Models\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:24:30.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul9_2311104076\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\09_API_Design_dan_Construction_Using_Swagger\\tpmodul9_2311104076\\tpmodul9_2311104076\\Program.cs",
               "RelativeToolTip": "tpmodul9_2311104076\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T13:48:40.149Z",
               "EditorCaption": ""
