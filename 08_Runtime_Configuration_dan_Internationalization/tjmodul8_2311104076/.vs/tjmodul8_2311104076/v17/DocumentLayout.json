@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{AD91A1FA-2825-4CC1-BE1C-C8CD296CAED2}|tjmodul8_2311104076\\tjmodul8_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\08_runtime_configuration_dan_internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD91A1FA-2825-4CC1-BE1C-C8CD296CAED2}|tjmodul8_2311104076\\tjmodul8_2311104076.csproj|solutionrelative:tjmodul8_2311104076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD91A1FA-2825-4CC1-BE1C-C8CD296CAED2}|tjmodul8_2311104076\\tjmodul8_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\08_runtime_configuration_dan_internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\bank_transfer_config.json.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD91A1FA-2825-4CC1-BE1C-C8CD296CAED2}|tjmodul8_2311104076\\tjmodul8_2311104076.csproj|solutionrelative:tjmodul8_2311104076\\bank_transfer_config.json.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD91A1FA-2825-4CC1-BE1C-C8CD296CAED2}|tjmodul8_2311104076\\tjmodul8_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\08_runtime_configuration_dan_internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\tjmodul8_2311104076.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD91A1FA-2825-4CC1-BE1C-C8CD296CAED2}|tjmodul8_2311104076\\tjmodul8_2311104076.csproj|solutionrelative:tjmodul8_2311104076\\tjmodul8_2311104076.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +42,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bank_transfer_config.json.txt",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\bank_transfer_config.json.txt",
+              "RelativeDocumentMoniker": "tjmodul8_2311104076\\bank_transfer_config.json.txt",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\bank_transfer_config.json.txt",
+              "RelativeToolTip": "tjmodul8_2311104076\\bank_transfer_config.json.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-24T11:57:32.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tjmodul8_2311104076",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\tjmodul8_2311104076.csproj",
+              "RelativeDocumentMoniker": "tjmodul8_2311104076\\tjmodul8_2311104076.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\tjmodul8_2311104076.csproj",
+              "RelativeToolTip": "tjmodul8_2311104076\\tjmodul8_2311104076.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T11:53:50.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\Program.cs",
               "RelativeDocumentMoniker": "tjmodul8_2311104076\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\Program.cs",
               "RelativeToolTip": "tjmodul8_2311104076\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T11:22:26.852Z",
               "EditorCaption": ""
