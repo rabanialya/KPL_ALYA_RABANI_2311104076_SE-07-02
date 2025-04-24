@@ -56,15 +56,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "tjmodul8_2311104076",
+              "Title": "tjmodul8_2311104076.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\tjmodul8_2311104076.csproj",
               "RelativeDocumentMoniker": "tjmodul8_2311104076\\tjmodul8_2311104076.csproj",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\tjmodul8_2311104076.csproj",
               "RelativeToolTip": "tjmodul8_2311104076\\tjmodul8_2311104076.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T11:53:50.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T11:53:50.288Z"
             },
             {
               "$type": "Document",
@@ -74,7 +73,7 @@
               "RelativeDocumentMoniker": "tjmodul8_2311104076\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\08_Runtime_Configuration_dan_Internationalization\\tjmodul8_2311104076\\tjmodul8_2311104076\\Program.cs",
               "RelativeToolTip": "tjmodul8_2311104076\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T11:22:26.852Z",
               "EditorCaption": ""
