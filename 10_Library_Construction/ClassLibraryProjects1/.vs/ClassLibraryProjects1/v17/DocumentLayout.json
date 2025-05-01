@@ -43,15 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ShowCase",
+              "Title": "ShowCase.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\ClassLibraryProjects1\\ShowCase\\ShowCase.csproj",
               "RelativeDocumentMoniker": "ShowCase\\ShowCase.csproj",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\ClassLibraryProjects1\\ShowCase\\ShowCase.csproj",
               "RelativeToolTip": "ShowCase\\ShowCase.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-30T05:57:08.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T05:57:08.741Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "StringLibrary\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T05:50:41.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-30T05:50:41.82Z"
             }
           ]
         }
