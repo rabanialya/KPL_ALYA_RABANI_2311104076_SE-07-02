@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42BF28AD-C9D9-49B2-A09A-067A82EE84E9}|AljabarTester\\AljabarTester.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\10_library_construction\\tpmodul10_2311104076\\aljabartester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BF28AD-C9D9-49B2-A09A-067A82EE84E9}|AljabarTester\\AljabarTester.csproj|solutionrelative:aljabartester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A876AD14-4B6D-4554-A6D9-63FA980264A3}|AljabarLibraries\\AljabarLibraries.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\10_library_construction\\tpmodul10_2311104076\\aljabarlibraries\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A876AD14-4B6D-4554-A6D9-63FA980264A3}|AljabarLibraries\\AljabarLibraries.csproj|solutionrelative:aljabarlibraries\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BF28AD-C9D9-49B2-A09A-067A82EE84E9}|AljabarTester\\AljabarTester.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\10_library_construction\\tpmodul10_2311104076\\aljabartester\\aljabartester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42BF28AD-C9D9-49B2-A09A-067A82EE84E9}|AljabarTester\\AljabarTester.csproj|solutionrelative:aljabartester\\aljabartester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F9ACDB-DE21-4DE3-B593-EAD6018F52D4}|tpmodul10_2311104076\\tpmodul10_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\10_library_construction\\tpmodul10_2311104076\\tpmodul10_2311104076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F9ACDB-DE21-4DE3-B593-EAD6018F52D4}|tpmodul10_2311104076\\tpmodul10_2311104076.csproj|solutionrelative:tpmodul10_2311104076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AljabarTester.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\AljabarTester\\AljabarTester.csproj",
+              "RelativeDocumentMoniker": "AljabarTester\\AljabarTester.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\AljabarTester\\AljabarTester.csproj",
+              "RelativeToolTip": "AljabarTester\\AljabarTester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T16:15:42.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\AljabarTester\\Program.cs",
+              "RelativeDocumentMoniker": "AljabarTester\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\AljabarTester\\Program.cs",
+              "RelativeToolTip": "AljabarTester\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:12:33.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\tpmodul10_2311104076\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul10_2311104076\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\tpmodul10_2311104076\\Program.cs",
+              "RelativeToolTip": "tpmodul10_2311104076\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:11:45.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aljabar.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\AljabarLibraries\\Aljabar.cs",
+              "RelativeDocumentMoniker": "AljabarLibraries\\Aljabar.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\AljabarLibraries\\Aljabar.cs",
+              "RelativeToolTip": "AljabarLibraries\\Aljabar.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:09:08.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
