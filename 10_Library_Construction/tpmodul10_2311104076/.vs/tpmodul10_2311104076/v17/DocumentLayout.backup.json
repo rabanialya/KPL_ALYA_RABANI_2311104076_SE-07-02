@@ -47,15 +47,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AljabarTester",
+              "Title": "AljabarTester.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\AljabarTester\\AljabarTester.csproj",
               "RelativeDocumentMoniker": "AljabarTester\\AljabarTester.csproj",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\10_Library_Construction\\tpmodul10_2311104076\\AljabarTester\\AljabarTester.csproj",
               "RelativeToolTip": "AljabarTester\\AljabarTester.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T16:15:42.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T16:15:42.807Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "tpmodul10_2311104076\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T16:11:45.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T16:11:45.146Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "AljabarLibraries\\Aljabar.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T16:09:08.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T16:09:08.747Z"
             }
           ]
         }
