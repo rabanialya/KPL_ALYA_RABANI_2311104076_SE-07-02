@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\modul12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\modul12.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\modul12.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\modul12.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\modul12.sourcelink.json
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\bin\Debug\net8.0\modul12.exe
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\bin\Debug\net8.0\modul12.deps.json
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\bin\Debug\net8.0\modul12.runtimeconfig.json
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\bin\Debug\net8.0\modul12.dll
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\bin\Debug\net8.0\modul12.pdb
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\modul12.dll
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\refint\modul12.dll
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\modul12.pdb
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\modul12.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\KPL_ALYA_RABANI_2311104076_SE-07-02\12_Performance_Analysis_Unit_Testing_dan_Debugging\modul12\modul12\obj\Debug\net8.0\ref\modul12.dll

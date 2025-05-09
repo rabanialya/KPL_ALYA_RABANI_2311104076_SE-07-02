@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\modul12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D10E21-AC0E-47D1-99D5-ED1128335329}|modul12\\modul12.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\modul12\\modul12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D10E21-AC0E-47D1-99D5-ED1128335329}|modul12\\modul12.csproj|solutionrelative:modul12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CBD652-1451-4982-B37E-774156227515}|UnitTest\\UnitTest.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\modul12\\unittest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CBD652-1451-4982-B37E-774156227515}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\modul12\\UnitTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "UnitTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\modul12\\UnitTest\\MSTestSettings.cs",
+              "RelativeToolTip": "UnitTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:33:18.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\modul12\\modul12\\Program.cs",
+              "RelativeDocumentMoniker": "modul12\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\modul12\\modul12\\Program.cs",
+              "RelativeToolTip": "modul12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:21:32.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
