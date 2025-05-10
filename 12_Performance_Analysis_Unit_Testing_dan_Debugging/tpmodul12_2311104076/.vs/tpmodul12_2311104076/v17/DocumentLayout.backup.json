@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7711849F-C712-4C0D-80C1-840AE5F9F6BC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC4E7AEF-2A24-438A-90E0-6EDB5BDD6A8F}|tpmodul12_2311104076\\tpmodul12_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\12_performance_analysis_unit_testing_dan_debugging\\tpmodul12_2311104076\\tpmodul12_2311104076\\bilanganhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC4E7AEF-2A24-438A-90E0-6EDB5BDD6A8F}|tpmodul12_2311104076\\tpmodul12_2311104076.csproj|C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tpmodul12_2311104076\\tpmodul12_2311104076\\bilanganhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC4E7AEF-2A24-438A-90E0-6EDB5BDD6A8F}|tpmodul12_2311104076\\tpmodul12_2311104076.csproj|solutionrelative:tpmodul12_2311104076\\bilanganhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,8 +42,7 @@
               "RelativeToolTip": "tpmodul12_2311104076\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T05:57:25.863Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "UnitTest\\MSTestSettings.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\12_Performance_Analysis_Unit_Testing_dan_Debugging\\tpmodul12_2311104076\\UnitTest\\MSTestSettings.cs",
               "RelativeToolTip": "UnitTest\\MSTestSettings.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T09:54:30.703Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "tpmodul12_2311104076\\BilanganHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T09:06:05.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T09:06:05.909Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "tpmodul12_2311104076\\Form1.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T06:14:44.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T06:14:44.647Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "UnitTest\\Test1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T09:58:57.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T09:58:57.294Z"
             }
           ]
         }
