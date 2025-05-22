@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\13_Design_Pattern_Implementation\\tjmodul13_2311104076\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{517C7AE2-56B6-4959-A6F6-EE8EDDED3EA0}|tjmodul13_2311104076\\tjmodul13_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\13_design_pattern_implementation\\tjmodul13_2311104076\\tjmodul13_2311104076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C7AE2-56B6-4959-A6F6-EE8EDDED3EA0}|tjmodul13_2311104076\\tjmodul13_2311104076.csproj|solutionrelative:tjmodul13_2311104076\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517C7AE2-56B6-4959-A6F6-EE8EDDED3EA0}|tjmodul13_2311104076\\tjmodul13_2311104076.csproj|c:\\users\\lenovo\\source\\repos\\kpl_alya_rabani_2311104076_se-07-02\\13_design_pattern_implementation\\tjmodul13_2311104076\\tjmodul13_2311104076\\pusatdatasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517C7AE2-56B6-4959-A6F6-EE8EDDED3EA0}|tjmodul13_2311104076\\tjmodul13_2311104076.csproj|solutionrelative:tjmodul13_2311104076\\pusatdatasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\13_Design_Pattern_Implementation\\tjmodul13_2311104076\\tjmodul13_2311104076\\Program.cs",
+              "RelativeDocumentMoniker": "tjmodul13_2311104076\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\13_Design_Pattern_Implementation\\tjmodul13_2311104076\\tjmodul13_2311104076\\Program.cs",
+              "RelativeToolTip": "tjmodul13_2311104076\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:37:20.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PusatDataSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\13_Design_Pattern_Implementation\\tjmodul13_2311104076\\tjmodul13_2311104076\\PusatDataSingleton.cs",
+              "RelativeDocumentMoniker": "tjmodul13_2311104076\\PusatDataSingleton.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\KPL_ALYA_RABANI_2311104076_SE-07-02\\13_Design_Pattern_Implementation\\tjmodul13_2311104076\\tjmodul13_2311104076\\PusatDataSingleton.cs",
+              "RelativeToolTip": "tjmodul13_2311104076\\PusatDataSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:42:30.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
